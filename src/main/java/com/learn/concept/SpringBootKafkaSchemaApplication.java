@@ -9,6 +9,8 @@ import org.springframework.context.annotation.ComponentScan;
 public class SpringBootKafkaSchemaApplication {
 
 	public static void main(String[] args) {
+
+		// Starting of service
 		SpringApplication.run(SpringBootKafkaSchemaApplication.class, args);
 	}
 
